@@ -1,0 +1,37 @@
+Testing with size 32:
+Merge Sort - Iterations: 125
+Max Val1 - Iterations: 31
+Max Val2 - Iterations: 31
+
+Testing with size 2048:
+Merge Sort - Iterations: 19931
+Max Val1 - Iterations: 2047
+Max Val2 - Iterations: 2047
+
+Testing with size 1048576:
+Merge Sort - Iterations: 19645849
+Max Val1 - Iterations: 1048575
+Max Val2 - Iterations: 1048575
+Multiply 4-bit - Iterations: 21
+Multiply 16-bit - Iterations: 362
+Multiply 64-bit - Iterations: 5823
+
+
+Testing with size 32:
+Merge Sort - Iterations: 122 - Time: 0.000134  seconds
+Max Val1 - Iterations: 31 - Time: 0.000007  seconds
+Max Val2 - Iterations: 31 - Time: 0.000036  seconds
+
+Testing with size 2048:
+Merge Sort - Iterations: 19994 - Time: 0.014221  seconds
+Max Val1 - Iterations: 2047 - Time: 0.000280  seconds
+Max Val2 - Iterations: 2047 - Time: 0.001794  seconds
+
+Testing with size 1048576:
+Merge Sort - Iterations: 19645336 - Time: 5.089916  seconds
+Max Val1 - Iterations: 1048575 - Time: 0.057370  seconds
+Max Val2 - Iterations: 1048575 - Time: 0.361205  seconds
+
+Multiply 4-bit - Iterations: 21 - Time: 0.000012  seconds
+Multiply 16-bit - Iterations: 362 - Time: 0.000139  seconds
+Multiply 64-bit - Iterations: 5823 - Time: 0.002245  seconds
